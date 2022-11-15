@@ -1,0 +1,11 @@
+html{
+  margin-top: 50px;
+  max-width: 1000px;
+  padding: 50px 20px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 50px;
+  text-align: center;
+  color: brown;
+  box-shadow: 2px 2px 15px rgb(214, 171, 171);
+}
